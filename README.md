@@ -25,3 +25,20 @@ For Dataset [click here](https://www.kaggle.com/competitions/convolve-epoch1/dat
 
 My task is to train a ML model on the given training data that can predict whether a given log in testing data is an anomaly or normal.
 
+## Prerequisites
+
+- Random Forest Classification
+- Natural Language Processing
+
+## Libraries/Modules Imported
+
+- Numpy
+- Pandas
+- RandomForestClassifier
+- RandomUnderSampler
+- RandomOverSampler
+- train_test_split
+- text
+- cross_val_score
+
+#### Kaggle Submission Score: 0.93026
