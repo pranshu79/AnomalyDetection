@@ -30,7 +30,7 @@ My task is to train a ML model on the given training data that can predict wheth
 - Random Forest Classification
 - Natural Language Processing
 
-## Libraries/Modules Imported
+## Libraries/Modules/Classes Imported
 
 - Numpy
 - Pandas
@@ -40,5 +40,6 @@ My task is to train a ML model on the given training data that can predict wheth
 - train_test_split
 - text
 - cross_val_score
+- CountVectorizer
 
 #### Kaggle Submission Score: 0.93026
